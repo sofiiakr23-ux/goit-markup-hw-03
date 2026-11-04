@@ -1,0 +1,37 @@
+ul {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+address {
+  font-style: normal;
+  letter-spacing: 0.02em;
+}
+
+.center-aligned {
+  text-align: center;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+  background-color: #ffffff;
+}

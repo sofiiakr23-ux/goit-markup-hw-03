@@ -1,0 +1,42 @@
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+
+.logo .accent {
+  color: #4d5ae5;
+}
+
+.header-nav {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.post-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  font-size: 16px;
+  color: #2e2f42;
+}
+
+.header-nav a,
+.header-address a {
+  letter-spacing: 0.02em;
+}
+
+.header-nav a:hover,
+.header-nav a:focus,
+.header-address a:hover,
+.header-address a:focus {
+  color: #404bbf;
+}
